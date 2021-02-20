@@ -23,3 +23,4 @@ for i in range(r):
     arr3.append(arr2[0])
     del arr2[0]
 print(arr3)
+input()
